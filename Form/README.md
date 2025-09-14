@@ -15,4 +15,4 @@ To get started, clone this repository and open index.html in vs code.
 
 ### *Output :*
 
-  ![Sample output](Form/images/output.png)
+  ![Sample output](images/output.png)
