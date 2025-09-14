@@ -13,4 +13,4 @@ To get started, clone this repository and open index.html in vs code.
 + *Select Open with Live Server*
 
 ### *Output :*
-  ![Sample Output](E-Commerce/images/output.png)
+  ![Sample Output](images/output.png)
