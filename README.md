@@ -22,5 +22,11 @@ This repository contains a collection of simple and beginner-friendly projects �
 - 📋 **Blog (HTML, CSS)**  
   A simple blog website built with HTML and CSS
 
+- **Chess Board (HTML,CSS)**  
+  A simple front-end clone of Chessboard to practice layout and styling.  
+
+- **Calculator (HTML, CSS, JavaScript)**  
+  This is a beginner-friendly, Calculator. It serves as an introductory project for new developers to learn and practice web development skills.
+
 ## 🎯 About This Repository  
 All the projects in this repository were designed and developed by **me** ✨ as part of my learning journey in web development. They serve as practice projects and a portfolio showcase of my growing skills.  
